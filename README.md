@@ -31,6 +31,28 @@ Below are some demo images :
 ![Dashboard](./im2.PNG)
 
 
+## Running the Project
+
+To run this project, follow these steps:
+
+1. Open the command prompt (cmd).
+
+2. Install the necessary requirements by running the following command:
+    ```bash
+    Telecom>python install_req.py
+    ```
+
+3. Run the application:
+    ```bash
+    Telecom>python app.py
+    ```
+
+4. The application will be running on:
+    ```
+    http://127.0.0.1:8050
+    ```
+
+Open this URL in your web browser to access the application.
 
 ## Prerequisites
 
