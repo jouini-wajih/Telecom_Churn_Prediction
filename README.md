@@ -25,10 +25,10 @@ To address the churn problem, Tunisie Télécom aims to develop methods to predi
 Below are some demo images :
 
 ### 1. Dashboard
-![Dashboard](./im1.png)
-![Dashboard](./im3.png)
+![Dashboard](./im1.PNG)
+![Dashboard](./im3.PNG)
 ### 2. Prediction page
-![Dashboard](./im2.png)
+![Dashboard](./im2.PNG)
 
 
 
